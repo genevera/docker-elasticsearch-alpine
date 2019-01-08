@@ -1,0 +1,3 @@
+[submodule "elasticsearch-carrot2"]
+	path = elasticsearch-carrot2
+	url = https://github.com/carrot2/elasticsearch-carrot2
